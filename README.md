@@ -1,6 +1,5 @@
 # redblacktree
 Dart Red Black Tree
-This is an asynchous list written in dart
 >Example usage
   ```
   Function cmp = (int a,int b){
